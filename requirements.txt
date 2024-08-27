@@ -1,0 +1,10 @@
+datetime
+pandas
+yfinance
+numpy
+fredapi
+newsapi
+bs4
+requests
+os
+dotenv

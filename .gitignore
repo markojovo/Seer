@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+hyperband/
+bayesian_optimization/
+database/
+output.txt
+hyperband_logs/
