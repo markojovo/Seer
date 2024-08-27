@@ -1,9 +1,4 @@
 # Seer Portfolio Management System
-
-<p align="center">
-  <img src="path_to_your_main_gif.gif" alt="Seer in action">
-</p>
-
 Seer is an advanced deep learning algorithm for stock forecasting and portfolio design, leveraging the power of BERT and LSTM models for financial analysis and decision-making.
 
 ## Features
