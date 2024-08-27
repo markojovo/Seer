@@ -1,4 +1,4 @@
-# Seer: AI-Powered Automated Portfolio Management System
+# Seer Portfolio Management System
 
 <p align="center">
   <img src="path_to_your_main_gif.gif" alt="Seer in action">
